@@ -1,4 +1,4 @@
-student-result-analysis-pandas
+student-result-analysis-pandas(project1)
 # 🎓 Student Result Analysis Using Pandas
 
 A beginner-friendly Python Pandas project for analyzing student marks and generating results.
